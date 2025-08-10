@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+    body {
+        background-color: #785cbe;
+        color: #000;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+h1 {
+    background-color: rgb(166, 225, 224);
+    color: #3914e1;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+main {
+    background-color: rgb(153, 126, 93);
+}
+
+body {
+    background-color: rgb(161, 245, 150);
+}
